@@ -18,11 +18,11 @@ This document contains a complete, ready-to-run Flutter example that demonstrate
 
 ## Quick notes / test credentials
 - ReqRes demo success credentials (use these to get a **real** token from reqres):
-- **email:** `eve.holt@reqres.in`
-- **password:** `cityslicka`
+- **email:** `flutter@gmail.com`
+- **password:** `123456`
 - Fallback hardcoded credentials (works offline):
-- **email:** `test@example.com`
-- **password:** `password`
+- **email:** `flutter1@gmail.com`
+- **password:** `123456`
 
 
 ---
@@ -35,7 +35,7 @@ This document contains a complete, ready-to-run Flutter example that demonstrate
 1. Create a new Flutter project and replace/add the files above (or copy into `lib/`).
 2. Add the dependencies from `pubspec.yaml` and run `flutter pub get`.
 3. Run the app on emulator/device with `flutter run`.
-4. Use the ReqRes demo creds (`eve.holt@reqres.in` / `cityslicka`) to test a successful network login — the token displayed is from ReqRes. If you are offline, use the fallback `test@example.com` / `password` to simulate a successful login.
+4. Use the ReqRes demo creds (`flutter@gmail.com` / `123456`) to test a successful network login — the token displayed is from ReqRes. If you are offline, use the fallback `flutter1@gmail.com` / `123456` to simulate a successful login.
 
 ---
 
@@ -198,5 +198,8 @@ User 1:
 flutter@gmail.com/123456
 User 2:
 flutter1@gmail.com/123456
+
+
+
 
 
