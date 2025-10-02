@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407452086027",
+    "project_id": "daily-trans-a7d25",
+    "storage_bucket": "daily-trans-a7d25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407452086027:android:6c45d2d1fd8ac276063c0e",
+        "android_client_info": {
+          "package_name": "sathussin.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmHI9TD18bKNHSVymt6omycsCRohaO58M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
